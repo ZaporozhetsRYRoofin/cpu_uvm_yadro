@@ -1,0 +1,10 @@
+#Compiling files
+
+*.out
+*.vcd
+*.log
+
+# Time files
+
+*~
+*.swp
